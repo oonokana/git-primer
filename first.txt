@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 メインで編集中
+=======
+testing練習中
+>>>>>>> testing
 
 aaa
 メインで編集aaa
